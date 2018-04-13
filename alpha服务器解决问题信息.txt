@@ -1,0 +1,2 @@
+1、终端抓拍上传的照片存储在什么位置？
+答：/home/easyits/product/share/day/年份/月份/日期/车牌号后三位/车牌号/Media
