@@ -1,0 +1,1 @@
+TP2开启拨号日志命令：logcat -b radio -v time &
